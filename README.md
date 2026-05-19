@@ -5,7 +5,7 @@
 ![Downloads](https://img.shields.io/pypi/dm/accentcolordetect)
 ![Status](https://img.shields.io/pypi/status/accentcolordetect)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![Issues](https://img.shields.io/github/issues/legopitstop/accentcolordetect)](https://github.com/legopitstop/accentcolordetect/issues)
+[![Issues](https://img.shields.io/github/issues/legopitstop/accentcolordetect-py)](https://github.com/legopitstop/accentcolordetect-py/issues)
 
 This package allows you to detect the user's accent color on:
 - macOS (untested)
